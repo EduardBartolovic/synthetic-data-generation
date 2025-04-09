@@ -1,6 +1,6 @@
 # Synthetic Data generation
 
-This repository contains a comprehensive pipeline for generating synthetic data. The pipeline is designed to create somewhat realistic synthetic data with labeled annotations, offering flexibility in customization. It places objects into a scene.
+This repository contains a comprehensive pipeline for generating synthetic data for this [Paper](http://wscg.zcu.cz/WSCG2024/CSRN-2024/C59-2024.pdf) . The pipeline is designed to create somewhat realistic synthetic data with labeled annotations, offering flexibility in customization. It places objects into a scene.
 
 # Installation
 
